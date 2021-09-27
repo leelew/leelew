@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on developing DL prediction models based on causal inference, physical prior knowleadge and state-of-the-art DL models.
 - 🤔 I’m looking for help with GEE api.
 - 💬 Ask me about any issue with our codes.
-- 📫 How to reach me: lilu35@mail2.sysu.edu.cn
+- 📫 How to reach me: lilu35@mail2.sysu.edu.cn, leelew.github.io, https://www.researchgate.net/profile/Lu-Li-69, 
 - ⚡ Fun fact: Arsenal, Albert Camus, Rulfo.
